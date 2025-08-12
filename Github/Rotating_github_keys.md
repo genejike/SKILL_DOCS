@@ -4,7 +4,7 @@
 - click on settings 
 - navigate and click  the developer settings
 - click on the personal access token
-- select either the tokens classics or the fine grained tokens
+- select either the tokens classics or the fine grained tokens and allocate to the right github account with permissions 
 - if its the token classic
 - on your server use the
   ```
