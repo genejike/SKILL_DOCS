@@ -10,11 +10,11 @@
   ```
   git remote set-url origin https://<username>:<token>@github.com/x/x.git
   ```
-  To persist it use
+- To persist it use
   ```
   git config --global credential.helper store
   ```
-  - For fine grained tokens
-  - it will always prompt the username and password
-  - the username is github name and password is the fine grained token 
+- For fine grained tokens
+- It will always prompt the username and password
+- The username is github name eg  genejike and password is the fine grained token 
   
