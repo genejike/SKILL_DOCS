@@ -1,6 +1,6 @@
 ## Step by Step guide 
 - click on your user icon
-  <img width="302" height="84" alt="image" src="https://github.com/user-attachments/assets/73dc760d-a182-443f-91db-8d5dc37c43b7" />
+- <img width="302" height="84" alt="image" src="https://github.com/user-attachments/assets/73dc760d-a182-443f-91db-8d5dc37c43b7" />
 - click on settings 
 - navigate and click  the developer settings
 - click on the personal access token
